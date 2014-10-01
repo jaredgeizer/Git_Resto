@@ -4,11 +4,13 @@ html{
 }
 
 wrapper{
+    background-color:blue;
 
 }
 header{
 }
 #logo{
+    border-width: thick;
     position: fixed;
     width:50%;
     transform: scale(.25);
