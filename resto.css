@@ -3,15 +3,23 @@ html{
     
 }
 
+<<<<<<< HEAD
+#wrapper{
+=======
 wrapper{
+    background-color:blue;
+>>>>>>> FETCH_HEAD
 
 }
 header{
 }
 #logo{
+    border-width: thick;
     position: fixed;
     width:50%;
     transform: scale(.25);
+    border-color:#555;
+    background-color: red;
 }
 ul.main-nav{
     position: fixed;
